@@ -9,7 +9,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 	 - UseContext
 	- 	UseState
 	- 	UseEffect
-<br/>
+
 - #### Modules:
 	- ##### Create-React-App Modules 
 	- Styled Components
