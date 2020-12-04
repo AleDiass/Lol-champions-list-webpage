@@ -30,4 +30,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
   - Go to http://localhost:3000/
 
 
-##### Demo: lolchamp-list-page.netlify.app
+##### Demo: https://lolchamp-list-page.netlify.app
