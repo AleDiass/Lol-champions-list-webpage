@@ -21,7 +21,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 	
 	<br/>
 	<br/>
-##### Demo: 
+
 
 
 ##### `Run in Local Host:`
@@ -29,3 +29,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 	- Use `Yarn Start ` or `npm start` 
   - Go to http://localhost:3000/
 
+
+##### Demo: lolchamp-list-page.netlify.app
