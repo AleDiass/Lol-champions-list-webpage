@@ -23,7 +23,7 @@
 
 
 ##### `Run in Local Host:`
-  - Clone or Fork this repository and Use `yarn Install` or `npm Install`
+  - Clone this repository and Use `yarn Install` or `npm Install`
 	- Use `Yarn Start ` or `npm start` 
   - Go to http://localhost:3000/
 
