@@ -2,7 +2,6 @@ import styled from 'styled-components';
 
 const FooterStyle = styled.footer`
     
-    height: 15vh;
     margin-top: 5rem;
     display:flex;
     background: rgba(0,0,0,0.6);
@@ -11,9 +10,11 @@ const FooterStyle = styled.footer`
     letter-spacing:2px;
     justify-content:Center;
     align-items:center;
-    padding:1rem 0 0 0 ;
+    padding: 1rem;
 
     div{
+        padding: 1rem;
+        margin-bottom: 2rem;
         width:40%
        
     }
@@ -30,6 +31,17 @@ const FooterStyle = styled.footer`
         color:white;
     }
     
+
+    @media (max-width:900px){
+        &{
+            flex-direction:column;
+
+        }
+
+        div{
+            width: 80%;
+        }
+    }
 
 
 `;
