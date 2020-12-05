@@ -55,7 +55,7 @@ const DetailsPage = () => {
 						<h3>{data.lore}</h3>
 					</DetailsDiv>
 					<ImagesDiv className='ImageCarousel'>
-						<img src={`http://ddragon.leagueoflegends.com/cdn/img/champion/loading/${data.id}_0.jpg`} alt={data.id}/>
+						<img src={`http://ddragon.leagueoflegends.com/cdn/img/champion/loading/${data.id}_0.jpg`} alt={data.id} title={data.id}/>
 					</ImagesDiv>
 				</>
 				): <Loading/>
