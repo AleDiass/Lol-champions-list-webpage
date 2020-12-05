@@ -14,7 +14,9 @@ const DetailsPage = () => {
 	const { ChampName } = useParams();
 	const history = useHistory();
 	const [data,setData] = React.useState(null);
-	
+	React.useEffect(()=>{
+	  document.documentElement.scrollTop = 0
+	},[])
 
 	React.useEffect(()=>{
 		(async()=>{
