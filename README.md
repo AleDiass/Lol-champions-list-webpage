@@ -1,31 +1,44 @@
 
 
-### League of Legends Champions List WebPage 
+## :computer: League of Legends Champions List WebPage
 
-####  Created With :
--  #### React :
-	 - UseContext
-	- 	UseState
-	- 	UseEffect
+<br/>
 
-- #### Modules:
-	- ##### Create-React-App Modules 
-	- Styled Components
-	- React Router
-	
-- ##### Others:
-	- LocalStorage Api
-	- DataDragons ( League of legends ) API
-	
-	<br/>
-	<br/>
+#### :earth_americas: Demo: https://lolchamp-list-page.netlify.app
+<br/>
 
 
+### :memo: Created With : 
+<br>
 
-##### `Run in Local Host:`
-  - Clone this repository and Use `yarn Install` or `npm Install`
-	- Use `Yarn Start ` or `npm start` 
-  - Go to http://localhost:3000/
+- ###### :atom_symbol: React :  Visual Interface
 
+<br>
 
-##### Demo: https://lolchamp-list-page.netlify.app
+- ###### :closed_book: Local Storage : Save Your Language And Game Version
+
+<br>
+
+- ###### :link: Fetch Api : To Get API Data And Game Informations / Assets
+
+<br>
+
+ - ###### :dragon: - Data Dragons League of Legends API :Game Information and Assets
+
+<br/>
+<br/> 
+
+##### :wrench: How to Run In LocalHost ?
+  - ###### Guide:
+    1. Clone This Repository With Git Clone
+     https://github.com/AleDiass/Lol-champions-list-webpage.git
+     
+    <br>
+    2. Go to the Folder File and Start With VsCode
+    <br>
+    3. Install all Dependencies with `Yarn Install` or `Npm Install`
+    <br>
+
+    4. After Use `Yarn Start` or `Npm Start` and Go to http://Localhost:3000/
+    
+
