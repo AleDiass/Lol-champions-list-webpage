@@ -30,15 +30,24 @@
 
 ##### :wrench: How to Run In LocalHost ?
   - ###### Guide:
-    1. Clone This Repository With Git Clone
+
+    - Clone This Repository With Git Clone
      https://github.com/AleDiass/Lol-champions-list-webpage.git
-     
+
     <br>
-    2. Go to the Folder File and Start With VsCode
-    <br>
-    3. Install all Dependencies with `Yarn Install` or `Npm Install`
+    
+    - Go to the Folder File and Start With VsCode
     <br>
 
-    4. After Use `Yarn Start` or `Npm Start` and Go to http://Localhost:3000/
+    - Install all Dependencies with `Yarn Install` or `Npm Install`
+    <br>
+
+    - After Use `Yarn Start` or `Npm Start` and Go to http://Localhost:3000/
     
 
+
+
+
+
+
+	
