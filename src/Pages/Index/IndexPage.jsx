@@ -14,10 +14,11 @@ const IndexPage = () => {
 	const [champions, setChampions] = React.useState(null);
 	const SearchInput = React.useRef();
 	const [pageloading,setPageLoading] = React.useState(true);
+	const ChampionsDiv = React.useRef();
 	
 	React.useEffect(()=>{
 		ChangeTitle('Home')
-	})
+	},[])
 	
 	
 	React.useEffect(() => {
@@ -74,7 +75,7 @@ const IndexPage = () => {
 				</button>
 			</InputForm>
 
-			<DivChampions>
+			<DivChampions ref={ChampionsDiv}>
 				{champions  && !pageloading ?
 					champions.map((champ) => {
 						return (
